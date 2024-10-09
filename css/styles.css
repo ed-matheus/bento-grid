@@ -1,0 +1,147 @@
+*  {
+    font-family: 'DM Sans', Helvetica;
+    border-radius: 6px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    height: 100vh;
+    width: 100vw;
+    background-color: hsl(0, 0%, 97%);
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.container-2 {
+    /* border: 1px solid red; */
+}
+
+/* Card 1 */
+.card-1 {
+    background-color: hsl(31, 66%, 93%);
+    padding: 10px 20px 10px 20px;
+    letter-spacing: -2px;
+    width: 198px;
+    height: 330px;
+}
+
+.card-1 h2 {
+    line-height: 0.9;
+}
+
+.card-1 h2 span {
+    color: hsl(256, 67%, 59%);
+    font-style: italic;
+}
+
+/* Card 2 */
+.card-2 {
+    background-color: hsl(39, 100%, 71%);
+    overflow: hidden;
+    height: 335px;
+    width: 198px;
+}
+
+.card-2 h2 {
+    letter-spacing: -2px;
+    line-height: 0.9;
+    font-size: 1.5em;
+}
+
+/* Card 3 */
+.card-3 {
+    background-color: hsl(256, 67%, 59%);
+    width: 460px;
+}
+
+.card-3 h2 {
+    font-size: 3.2rem;
+    line-height: 1;
+}
+
+.card-3 p {
+    font-size: 1rem;
+}
+
+.card-3 h2 .number {
+    color: hsl(39, 100%, 71%);
+}
+
+.card-3 h2 .word {
+    font-style: italic;
+}
+
+/* Card 4 */
+.card-4 {
+    background-color: white;
+    height: 200px;
+    width: 218px;
+    overflow: hidden;
+}
+
+.card-4 h4 {
+    letter-spacing: -2px;
+    line-height: 0.9;
+    font-weight: 600;
+}
+
+/* Card 5 */
+.card-5 {
+    background-color: hsl(39, 100%, 71%);
+    letter-spacing: -2px;
+    height: 200px;
+    width: 218px;
+    overflow: hidden;
+}
+
+.card-5 h4 {
+    line-height: 0.9;
+    font-weight: 600;
+}
+
+.card-6 {
+    background-color: hsl(254, 88%, 90%);
+    width: 198px;
+    overflow: hidden;
+}
+
+.card-6 h4 {
+    letter-spacing: -2px;
+    line-height: 0.9;
+    font-weight: 600;
+}
+
+.card-6 p {
+    font-size: 1rem;
+    letter-spacing: -1px;
+    line-height: 1;
+    font-weight: 500;
+}
+
+.card-7 {
+    background-color: white;
+    height: 200px;
+}
+
+.card-7 h2 {
+    font-size: 3rem;
+}
+
+.card-7 p {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.card-8 {
+    background-color: hsl(256, 67%, 59%);
+}
+
+.card-8 h2 {
+    letter-spacing: -1px;
+    line-height: 0.9;
+}
