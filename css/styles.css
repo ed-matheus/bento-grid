@@ -17,10 +17,6 @@ body {
     border: 1px solid black;
 }
 
-.container-2 {
-    /* border: 1px solid red; */
-}
-
 /* Card 1 */
 .card-1 {
     background-color: hsl(31, 66%, 93%);
